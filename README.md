@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dương Tuấn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVlZzcweXh5Z2FqbXozMGg5dDYxNno2dGZ0b21lcXQ4MmgwZDl1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">Web3 Comunity</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVlZzcweXh5Z2FqbXozMGg5dDYxNno2dGZ0b21lcXQ4MmgwZDl1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp)" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
